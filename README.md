@@ -17,16 +17,21 @@
 
 
 - 界面部分是通过PyQt5写的， 
-
-![](http://i.imgur.com/HUUMSo3.png)
-![](http://i.imgur.com/9FpqeGR.png)
-![](http://i.imgur.com/X7ByV3P.png)
-
-
+<div  align="center">
+<img src="http://i.imgur.com/HUUMSo3.png"/>
+</div>
+<div  align="center">
+<img src="http://i.imgur.com/9FpqeGR.png"/>
+</div>
+<div  align="center">
+<img src="http://i.imgur.com/X7ByV3P.png"/>
+</div>
 
 当然一些例子也会识别错，
-![](http://i.imgur.com/jjFefJR.png)
 
+<div  align="center">
+<img src="http://i.imgur.com/jjFefJR.png"/>
+</div>
 
 毕竟Mnist训练写的数字都很正规。估计是没有学到一些特征，影响了它的泛化程度。
 
